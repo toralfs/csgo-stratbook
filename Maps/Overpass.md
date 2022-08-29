@@ -1,7 +1,7 @@
 # Overpass Stratbook
 
 ## T-side
-### Pistol Round:
+### Pistol round:
 1. Rush B, 2x flash for monster and site (1x molly for tocix?). Plant for monster.
 Post-plant. Hold from monster, pillar and under heaven.
 
@@ -33,3 +33,14 @@ Post-plant position, monster, pillar (hold short), under heaven.
 1. Pistol upgrades and flash + smoke for molly. Rush B through monster.
 
 2. Slow round, wait for them to push and get picks.
+
+
+
+## CT-side
+### Pistol round:
+1. 
+
+### Gun round:
+1. Default setup. Two on B-site, one conn, two toilets/long.
+
+2. 
